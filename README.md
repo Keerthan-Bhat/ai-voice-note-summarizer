@@ -25,3 +25,4 @@ Action items (when applicable)
 🛡️ Defensive JSON parsing to prevent crashes
 
 🆓 Fully local, no paid APIs required
+
